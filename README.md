@@ -25,13 +25,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/leesoyuun"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
   <a href="https://velog.io/@leesoyuun"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
   <a href="https://notionofso.notion.site/066c9b9aea674fe1b9ceb75b17b8e24f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br>
-  <br>
-  <b>🍑About my Github🍑</b><br>
-  <br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesoyuun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <br>
+
   
  
   
