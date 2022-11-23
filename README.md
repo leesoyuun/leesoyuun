@@ -13,18 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
 <div align="center">
 <b>🛠️Tech Stack🛠️<b><br>
   
  ![image](https://user-images.githubusercontent.com/51051548/203485050-e6f4942c-f06f-4e8f-bf70-3d67bfb882ab.png)
   
-
-
-  
- 
-  
- 
 
 </div>
 
