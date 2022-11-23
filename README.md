@@ -24,4 +24,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp
+<br>
+  <br>
+  <b>🍒About me🍒</b><br>
+  <a href="https://github.com/leesoyuun"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+  <a href="https://velog.io/@leesoyuun"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  <a href="https://notionofso.notion.site/066c9b9aea674fe1b9ceb75b17b8e24f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
