@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 <b>🛠️Tech Stack🛠️<b><br>
+  <br>
   
- ![image](https://user-images.githubusercontent.com/51051548/203485050-e6f4942c-f06f-4e8f-bf70-3d67bfb882ab.png)
   
+![스크린샷 2022-11-24 10-41-03](https://user-images.githubusercontent.com/51051548/203675341-b89784d8-aad9-4374-9c77-f219ba02bf2a.png)
 
 </div>
 
