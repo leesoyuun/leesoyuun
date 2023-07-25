@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <b>:cherries:About me:cherries:</b><br>
   <a href="https://github.com/leesoyuun"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
   <a href="https://velog.io/@leesoyuun"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <a href="https://notionofso.notion.site/066c9b9aea674fe1b9ceb75b17b8e24f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><br>
+
   <br>
   <b>:peach:About my Github:peach:</b><br>
   <br>
