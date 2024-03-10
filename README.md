@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <b>:cherries:About me:cherries:</b><br>
   <a href="https://github.com/leesoyuun"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
   <a href="https://velog.io/@leesoyuun"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-
+  <a href="https://leesoyun-portfolio.vercel.app/">포트폴리오 링크</a>
   <br>
   <b>:peach:About my Github:peach:</b><br>
   <br>
