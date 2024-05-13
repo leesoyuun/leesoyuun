@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <a href="https://leesoyun-portfolio.vercel.app/">Click Here</a>
   <br>
   <br>
-  <b>:peach:About my Github:peach:</b><br>
+ 
   <br>
   
   
